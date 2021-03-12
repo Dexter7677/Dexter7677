@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Brief intro:
+- An Engineering graduate, who loves to do hands on multiple technologies. 
+- I have been mostly involved with mobile platforms, majorly iOS. My experince have introduces me to responsibilities from creating apps from scratch to handling teams & projects. 
+- 🔭 Currently working as Technical desinger, doing POCs and analysing features for product enhancements.
+
 <!--
 **Dexter7677/Dexter7677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
