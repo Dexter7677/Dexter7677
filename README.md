@@ -7,6 +7,9 @@
 
 - ⚡ I’m currently working on SwiftUI App 
 - 💬  Ask me about iOS and flutter
+
+
+
 <a href="https://www.linkedin.com/in/deepaksingh4/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 
 <!--
@@ -27,7 +30,7 @@ Here are some ideas to get you started:
 ### GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/faisalazeez">
+<a href="https://github.com/deepaksingh4">
   <img width = "45%"src="https://github-readme-stats-eight-theta.vercel.app/api?username=deepaksingh4&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 	<!--
   <img hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deepaksingh4&layout=compact&langs_count=8&theme=algolia"/>
