@@ -2,7 +2,7 @@
 
 ### Brief intro:
 - An Engineering graduate, who loves to do code and travel. 
-- I have been mostly involved with mobile platforms, majorly iOS. My experince have introduces me to responsibilities from creating apps from scratch to handling teams & projects. 
+- I have been mostly involved with mobile platforms, majorly iOS. My experince have introduced me to responsibilities from creating apps from scratch to handling teams & projects. 
 - Working on multiple side hustle, hoping to see them live soon.
 
 - ⚡ I’m currently working on SwiftUI App 
