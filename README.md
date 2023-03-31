@@ -7,7 +7,7 @@
 
 - ⚡ I’m currently working on SwiftUI App 
 - 💬  Ask me about iOS and flutter
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/deepaksingh4/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/deepaksingh4/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 
 <!--
 **Dexter7677/Dexter7677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
